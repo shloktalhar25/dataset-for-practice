@@ -1,0 +1,99 @@
+Dish,Rating,Price Range,How Long Can You Wait,Restaurant Name
+Biryani,4.5,Medium,30,Spice Kingdom
+Pizza,4.2,High,25,Pizza Palace
+Chicken,3.8,Low,40,Chicken Grill
+Veg Meal,4.0,Medium,35,Green Bites
+Thali,4.7,High,50,Royal Indian
+Burger,3.5,Low,20,Burger Barn
+Roll,4.1,Medium,30,Roll Express
+North Indian,4.3,High,45,Punjabi Dhaba
+Dosa,4.4,Medium,25,South Spice
+Paneer,3.9,Low,35,Paneer Palace
+Cake,4.6,High,60,Sweet Delight
+Paratha,4.2,Medium,30,Paratha Point
+Biryani,4.3,High,40,Biryani House
+Pizza,3.9,Medium,30,Italian Bistro
+Chicken,4.1,Medium,35,Chicken Express
+Veg Meal,3.7,Low,25,Veggie Delight
+Thali,4.5,Medium,45,Spice Trail
+Burger,4.0,Medium,20,Burger Joint
+Roll,3.8,Low,30,Roll House
+North Indian,4.2,Medium,40,North Spice
+Dosa,4.0,Low,25,Dosa Corner
+Paneer,4.3,Medium,35,Paneer Hub
+Cake,4.7,High,60,Cake Heaven
+Paratha,3.9,Low,30,Paratha Hub
+Biryani,4.6,High,50,Biryani Express
+Pizza,4.1,Medium,25,Pizza Hub
+Chicken,3.9,Low,40,Chicken Spot
+Veg Meal,4.2,Medium,35,Veggie Bites
+Thali,4.4,High,45,Thali House
+Burger,3.7,Low,20,Burger Express
+Roll,4.0,Medium,30,Roll Corner
+North Indian,4.5,High,40,North Delight
+Dosa,4.1,Medium,25,Dosa House
+Paneer,3.8,Low,35,Paneer Spot
+Cake,4.8,High,60,Cake Palace
+Paratha,4.0,Medium,30,Paratha Express
+Biryani,4.4,Medium,40,Biryani Corner
+Pizza,3.8,Low,25,Pizza Spot
+Chicken,4.0,Medium,35,Chicken House
+Veg Meal,3.9,Low,30,Veggie Spot
+Thali,4.6,High,50,Thali Express
+Burger,4.1,Medium,20,Burger House
+Roll,3.7,Low,30,Roll Spot
+North Indian,4.4,Medium,40,North Corner
+Dosa,4.2,Medium,25,Dosa Express
+Paneer,4.0,Medium,35,Paneer Corner
+Cake,4.9,High,60,Cake Spot
+Paratha,3.8,Low,30,Paratha Spot
+Chicken,4.9,Medium,30,Paratha Hub
+Thali,4.6,Medium,25,Burger Barn
+Pizza,4.4,Medium,35,Thali House
+North Indian,4.7,High,40,Biryani Corner
+Burger,4.5,High,25,Paratha Point
+Cake,3.9,Low,35,Dosa Express
+Cake,4.7,Medium,50,Paneer Corner
+Pizza,3.7,Low,25,Paneer Palace
+Paratha,3.9,Medium,35,Biryani Corner
+Dosa,4.6,Medium,35,Paratha Hub
+Burger,4.6,High,35,Burger Barn
+Pizza,3.7,Medium,35,Burger Barn
+Cake,4.8,Medium,60,Dosa Express
+North Indian,4.2,Low,35,Paratha Point
+Burger,4.1,Medium,35,Chicken Grill
+Veg Meal,4.7,Medium,45,North Corner
+Roll,4.6,Medium,45,Green Bites
+North Indian,3.6,Medium,60,Paneer Palace
+Paratha,4.7,High,60,Roll Spot
+Pizza,4.5,High,60,North Corner
+Burger,3.9,Medium,35,Roll House
+Thali,4.9,Medium,25,Pizza Palace
+Paratha,4.2,Medium,60,Punjabi Dhaba
+Thali,4.2,Low,40,Paneer Palace
+Paratha,4.1,Low,40,Chicken Grill
+Biryani,4.7,Medium,35,Pizza Spot
+Veg Meal,3.7,Medium,50,Biryani House
+Pizza,4.0,Medium,25,Biryani House
+Paneer,4.1,Low,30,Veggie Bites
+Paratha,4.8,High,30,Roll House
+Paneer,4.2,High,45,Roll Express
+Pizza,4.2,Low,60,Paratha Express
+Roll,4.8,Low,20,Burger Barn
+Pizza,4.4,Low,30,Paneer Palace
+Biryani,3.5,Medium,25,Veggie Spot
+Thali,3.7,High,25,Paneer Corner
+Cake,4.7,High,20,Thali House
+Paratha,4.6,High,45,Biryani Corner
+Biryani,4.9,Medium,50,North Corner
+Veg Meal,4.6,Low,20,Paneer Spot
+Veg Meal,4.4,High,25,Burger Joint
+Burger,4.9,Medium,25,Paratha Express
+Roll,4.1,Low,40,Cake Palace
+North Indian,4.1,Medium,20,Roll Corner
+Dosa,4.6,High,60,Paneer Hub
+Dosa,5.0,High,25,Biryani Express
+Chicken,4.9,High,35,South Spice
+Chicken,4.0,Low,60,North Spice
+Cake,4.6,High,40,Veggie Delight
+North Indian,3.5,Medium,20,Roll Spot
